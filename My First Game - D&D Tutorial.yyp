@@ -740,11 +740,50 @@
                 "resourcePath": "options\\mac\\options_mac.yy",
                 "resourceType": "GMMacOptions"
             }
+        },
+        {
+            "Key": "5b4eecc4-09eb-456a-83cc-c8879ede60b2",
+            "Value": {
+                "id": "96b557e1-ebcd-4e6e-8dc0-c5bd6d6f343e",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "rooms\\rm_gameover\\rm_gameover.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "7d0cf761-e089-4ba2-85f1-8d2fc2a84f4c",
+            "Value": {
+                "id": "240d0409-b7d7-4015-a76e-e0c5d8cac56b",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "objects\\obj_gameover_score\\obj_gameover_score.yy",
+                "resourceType": "GMObject"
+            }
         }
     ],
     "room_order": [
         "9c9aee28-d8a4-4baa-b69c-2ac6303cba7f",
-        "ed2f6f07-457a-41a9-8240-bcd0f95f442d"
+        "ed2f6f07-457a-41a9-8240-bcd0f95f442d",
+        "5b4eecc4-09eb-456a-83cc-c8879ede60b2"
     ],
     "script_order": [
         
